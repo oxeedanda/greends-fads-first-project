@@ -1,6 +1,6 @@
-“There are people like Senhor José everywhere, who fill their tiem, or
-what they believe to be their spare time, by collecting stmps, coins,
-medals, vases, postcards, matchboxes, boks, clocks, sport shirts,
+“There are people like Senhor José everywhere, who fill their time, or
+what they believe to be their spare time, by collecting stamps, coins,
+medals, vases, postcards, matchboxes, books, clocks, sport shirts,
 autographs, stones, clay figurines, empty beverge cans, little angels,
 cacti, opera programmes, lighters, pens, owls, music boxes, bottles, bonsai
 trees, paintings, mugs, pipes, glass obelisks, ceramic ducks, old toys,
@@ -14,4 +14,9 @@ it must be dispersed, and that day always comes, either with their death
 or when the collector grows weary, everything goes back to its beginnings,
 everything returns to chaos.”
 
+<<<<<<< HEAD
+*― José Saramago, All the Names*
+=======
 *― José Saramago, All the Names* 
+
+>>>>>>> 0e4fcae3530de172680c121e7622aa4daa126c4a
